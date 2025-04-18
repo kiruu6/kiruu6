@@ -1,7 +1,7 @@
 <h1 align="center">Salut je suis Anthony Mascetti</h1>
 <h3 align="center">Passionné par le Marketing Digital et la Communication</h3>
 
-- Je viens de coder mon Portfolio ! [Portfolio de Anthony MASCETTI](lien)
+- Je viens de coder mon Portfolio ! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
